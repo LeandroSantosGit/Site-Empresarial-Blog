@@ -1,0 +1,21 @@
+{
+    "name": "LeandroSantosGit/Site-Empresarial-Blog",
+    "description": "Projeto PHP Site Empresarial e Blog",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Leandro Santos",
+            "email": "santosdeveloper19@gmail.com",
+            "homepage": "https://github.com/LeandroSantosGit",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Core\\": "core",
+            "Sts\\": "app/sts",
+            "App\\": "app"
+        }
+    },
+    "require": {}
+}
